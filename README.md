@@ -1,4 +1,3 @@
-# MFA_21112022
 # Project homepage
 
 ![Design preview for the News homepage coding challenge](./Design/desktop-design.png)
